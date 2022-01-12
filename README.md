@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anisov)](https://github.com/anuraghazra/github-readme-stats)
+![Anisov Dmitriy GitHub stats](https://github-readme-stats.vercel.app/api?username=anisov&show_icons=true&theme=ocean_dark)
 
 <!---
 anisov/anisov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
